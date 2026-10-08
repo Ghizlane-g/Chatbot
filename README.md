@@ -25,7 +25,6 @@ An AI-powered chatbot developed for the **Orange Digital Center (ODC) Morocco** 
 
 ```text
 ODC_chatbot/
-│
 ├── chatbot.py
 ├── interface.py
 ├── requirements.txt
