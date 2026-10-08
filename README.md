@@ -13,7 +13,7 @@ An AI-powered chatbot developed for the **Orange Digital Center (ODC) Morocco** 
 *  Streamlit interface
 *  Secure API key management with `.env`
 
-## 🏗️ Technologies
+##  Technologies
 
 * **Python**
 * **Streamlit** – user interface
